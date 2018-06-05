@@ -1,0 +1,16 @@
+{
+    "name": "ragonzalezm19/rut-validator",
+    "description": "Validador en PHP de RUT Chileno",
+    "authors": [
+        {
+            "name": "Roberto Gonzalez",
+            "email": "ragonzalezm.19@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "Ragonzalezm19\\RutValidator\\" : "src/"
+        }
+    }
+}
